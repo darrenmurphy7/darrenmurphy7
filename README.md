@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darrenmurphy7
 - 👀 I’m interested in learning to code in Swift, Python, Javascript, PHP, Java, Ruby & C variants.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me aplsi347632998982@icloud.com
 
